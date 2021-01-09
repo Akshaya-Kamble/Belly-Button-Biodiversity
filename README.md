@@ -1,6 +1,7 @@
 # Belly-Button-Biodiversity
 
 ## Belly Button diversity using Javascrip and Plotly
+Deployment url : https://akshaya-kamble.github.io/Belly-Button-Biodiversity/
 
 ### Overview of the Project
 In this project we have created various types of interactive charts like bar chart,gauge chart and bubble chart. On selecting the volunteer id from the drop down menu the charts reflect data for the respective id and helps the volunteer visualize the data. 
